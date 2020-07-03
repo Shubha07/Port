@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\components",
+    "\\src\\components\\CRUD",
+    "\\src\\components\\Todo"
+  ],
+  "SelectedNode": "\\src\\components\\Todo\\Logic.js",
+  "PreviewInSolutionExplorer": false
+}
